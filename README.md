@@ -20,7 +20,7 @@ This bot performs arbitrage trading across multiple decentralized exchanges (DEX
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/xONEIROS/Arbitrage-Bot.git
    cd ArbitrageBot
    ```
 
