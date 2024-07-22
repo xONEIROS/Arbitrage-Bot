@@ -1,4 +1,5 @@
 # Arbitrage Bot
+![image](https://github.com/user-attachments/assets/f9352f16-805a-4c45-b1f9-0a25a9cdde36)
 
 
 Hey there! This Arbitrage Bot, designed by xOneiros, is a cool tool for performing arbitrage trading across multiple decentralized exchanges (DEX). The main goal of this bot is to take advantage of price differences between various exchanges and execute trades to make a profit.
@@ -256,14 +257,7 @@ if __name__ == "__main__":
     root.mainloop()
 ```
 
-### Contact and Social Media
-
-- **Twitter:** [@x0oneiros](https://twitter.com/x0oneiros)
-- **Telegram Channel:** [xOneiros](https://t.me/xOneiros)
-
-###
-
-![xOneiros Logo](https://via.placeholder.com/150)
+![head](https://github.com/user-attachments/assets/5d7c007d-e0eb-4e27-934a-8b603464598c)
 
 >------------------------------
 
