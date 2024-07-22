@@ -1,0 +1,5 @@
+aiohttp
+web3
+requests
+tk
+python-dotenv
